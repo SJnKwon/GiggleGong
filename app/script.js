@@ -1,5 +1,5 @@
 // Function to restrict users from accessing developer tools
-/*window.addEventListener("keydown", function(event) {
+window.addEventListener("keydown", function(event) {
     if (event.keyCode == 116) {
         // block F5 (Refresh)
         event.preventDefault();
@@ -30,13 +30,13 @@
         event.stopPropagation();
         return false;
     }
-
+});
 window.oncontextmenu = function(event) {
     // block right-click / context-menu
     event.preventDefault();
     event.stopPropagation();
     return false;
-};*/
+};
 
 // Checks alarms
 function checkAlarms() {
