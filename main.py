@@ -253,4 +253,4 @@ def exit_program():
         sys.exit
 '''
 if __name__ == '__main__':
-    eel.start('index.html', mode="chromePort", size=(800, 600))
+    eel.start('index.html', size=(800, 600))
