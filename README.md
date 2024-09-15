@@ -4,7 +4,7 @@ GiggleGong is a unique alarm clock desktop application designed to add a playful
 # Installation
 - Currently the executable file is unavailable.
 - Clone the github repository or donwload the zip file.
-- Run index.html
+- Run main.py
 # Usage
 - Open the app and set an alarm by selecting the desired time and adding a custom message if needed.
 - Choose your alarm sound or upload your own audio file.
