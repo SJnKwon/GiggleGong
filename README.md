@@ -1,6 +1,9 @@
 # GiggleGong
 GiggleGong is a unique alarm clock desktop application designed to add a playful twist to your morning routine or reminders. It combines the functionality of a traditional alarm clock with an engaging guessing game, making waking up or attending to reminders more enjoyable and mentally stimulating.
 <br>
+# Requirements
+- Python 3.12
+  
 # Installation
 - Currently the executable file is unavailable.
 - Clone the github repository or donwload the zip file.
